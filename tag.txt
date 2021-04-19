@@ -1,0 +1,5 @@
+/* 
+  Theme Name: Frontier Tailwind Template
+  Author: Michael Capecci
+  Version: 0.1.1
+*/
